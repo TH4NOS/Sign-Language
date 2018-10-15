@@ -1,3 +1,5 @@
+#the following lines of code are currupted.
+
 # Sign-Language
 A very simple CNN project.
 
